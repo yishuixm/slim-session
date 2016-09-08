@@ -64,6 +64,7 @@ class Helper
     {
         return array_key_exists($key, $_SESSION);
     }
+
     /**
      * Get or regenerate current session ID.
      *
@@ -78,6 +79,7 @@ class Helper
         }
         return session_id() ?: '';
     }
+
     /**
      * Destroy the session.
      */

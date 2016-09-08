@@ -1,9 +1,8 @@
 {
   "name": "yishuixm/slim-session",
-  "description": "alim session widget v1.0.1",
+  "description": "slim session widget v1.0.1",
   "license": "MIT",
-  "keywords": ["malim"],
-  "version": "1.0.1",
+  "keywords": ["slim"],
   "authors": [
     {
       "name": "yishuixm",
