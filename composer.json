@@ -1,0 +1,22 @@
+{
+  "name": "yishuixm/maslim-session",
+  "description": "malim session widget v1.0.1",
+  "license": "MIT",
+  "keywords": ["malim"],
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "yishuixm",
+      "email": "1830802211@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Slim\\Session\\": "src/"
+    }
+  }
+}
